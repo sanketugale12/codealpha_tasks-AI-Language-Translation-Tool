@@ -1,0 +1,6 @@
+{
+  "name": "AI Language Translation Tool",
+  "description": "A web-based AI language translation tool powered by Google Gemini, with auto-detection, translation history, favorites, copy-to-clipboard, text-to-speech, alternate translation suggestions, and document/text file translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
